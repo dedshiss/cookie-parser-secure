@@ -1,0 +1,1 @@
+function parse(s) { return {}; } module.exports = { parse };
